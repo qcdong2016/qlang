@@ -1,3 +1,3 @@
 # QLang
 
-语法文档：[Wiki](https://github.com/qcdong2016/qlang/wiki)
+语法规范：[spec/README.md](spec/README.md)
